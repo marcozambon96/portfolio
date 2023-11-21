@@ -1,0 +1,33 @@
+html{
+   background-color: #00A9FF;
+}
+*{
+    text-align: center;
+}
+h1{
+    color: #07537a;
+    background-color: #89CFF3;
+    font-size:45px;
+   
+    font-weight: 900;
+    font-family: 'Caveat', cursive;
+}
+
+h4{
+    color: #6ab8e2;
+    background-color: #CDF5FD;
+    font-size: 20px;
+    font-style: oblique;
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+h2{
+    color: #2d87a2;
+    background-color: #CDF5FD;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: 300;
+    font-family: 'Caveat', cursive;
+    
+}
